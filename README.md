@@ -4,6 +4,8 @@
 
 This is a React app that allows you to more easily google error messages by removing all ' and " marks. 
 
+[Try it here](http://www.emcassi.com/preperror)
+
 ## Available Scripts
 
 In the project directory, you can run:
