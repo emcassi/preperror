@@ -1,0 +1,18 @@
+.footer {
+    margin-top: 15px;
+}
+
+.footer img {
+    width: 64px;
+}
+
+.footer p {
+    margin: 0;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+
+.footer a {
+    color: rgb(78, 72, 247);
+    text-decoration: none;
+}
