@@ -2,7 +2,7 @@
 
 ## About 
 
-This is a React app that allows you to more easily google error messages by removing all ' and " marks. 
+Preperror is a React app that allows you to more easily google error messages by removing all ' and " marks. 
 
 [Try it here](http://www.emcassi.com/preperror)
 
