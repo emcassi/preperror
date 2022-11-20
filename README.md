@@ -6,7 +6,7 @@ Preperror is a React app that allows you to more easily google error messages by
 
 [Try it here](http://www.emcassi.com/preperror)
 
-## Available Scripts
+## To run on your computer
 
 In the project directory, you can run:
 
